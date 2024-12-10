@@ -58,7 +58,7 @@
 
 ۱. **قالب رو با دستور زیر دانلود کنید**
    ```sh
-   sudo wget -N -P /var/lib/marzneshin/templates/subscription/ https://github.com/MatinDehghanian/Ourenus/releases/latest/download/index.html
+   sudo wget -N -P /var/lib/marzneshin/templates/subscription/ https://github.com/erfanesmizadh/Ourenus/releases/latest/download/index.html
    ```
 
 ۲. **دستورات زیر رو تو ترمینال سرورتون بزنید**
@@ -86,7 +86,7 @@
 
 ## شخصی سازی
 برای شخصی سازی لیست اپلیکیشن ها و لیست پشتیبانی:
-- **اپلیکیشن ها**: [public-assets Apps JSON](https://github.com/MatinDehghanian/public-assets/blob/main/json/apps.json)
+- **اپلیکیشن ها**: [public-assets Apps JSON](https://github.com/erfanesmizadh/public-assets/blob/main/json/apps.json)
 - **توضیحات**: ریپازیتوری من رو فورک کنید. و باتوجه به ساختار اون لینک یا اسم یا عکسش رو تغییر بدید
 
 **ویدیو آموزشی**:  
@@ -96,7 +96,7 @@
 ---
 
 ## حمایت و سفارشات
-برای پشتیبانی یا سفارش قالب اختصاصی با من توی تلگرام در ارتباط باشید [Telegram](https://t.me/Mqtin).
+برای پشتیبانی یا سفارش قالب اختصاصی با من توی تلگرام در ارتباط باشید [Telegram](https://t.me/erfan_v2rayng).
 
 <a href="https://nowpayments.io/donation?api_key=Z50AKDD-DHSMN86-P0DQ22X-1SQAFCA" target="_blank" rel="noreferrer noopener">
     <img src="https://nowpayments.io/images/embeds/donation-button-black.svg" alt="Crypto donation button by NOWPayments">
@@ -139,7 +139,7 @@
 
 1. **Download the Template File:**
    ```sh
-   sudo wget -N -P /var/lib/marzban/templates/subscription/ https://github.com/MatinDehghanian/Ourenus/releases/latest/download/index.html
+   sudo wget -N -P /var/lib/marzban/templates/subscription/ https://github.com/erfanesmizadh/Ourenus/releases/latest/download/index.html
    ```
 
 2. **Execute the Following Commands in Your Server Terminal:**
@@ -162,7 +162,7 @@
 
 1. **Download the Template File:**
    ```sh
-   sudo wget -N -P /var/lib/marzneshin/templates/subscription/ https://github.com/MatinDehghanian/Ourenus/releases/latest/download/index.html
+   sudo wget -N -P /var/lib/marzneshin/templates/subscription/ https://github.com/erfanesmizadh/Ourenus/releases/latest/download/index.html
    ```
 
 2. **Execute the Following Commands in Your Server Terminal:**
@@ -190,7 +190,7 @@ To update the template, simply repeat Step 1 from the installation guide.
 
 ## Customization
 To customize the app list or support List:
-- **Apps List**: [public-assets Apps JSON](https://github.com/MatinDehghanian/public-assets/blob/main/json/apps.json)
+- **Apps List**: [public-assets Apps JSON](https://github.com/erfanesmizadh/public-assets/blob/main/json/apps.json)
 - **Instructions**: Fork the repository if needed, add applications based on the operating system, provide custom icons, or update the program links.
 
 **Video Tutorial**:  
@@ -200,7 +200,7 @@ To customize the app list or support List:
 ---
 
 ## Support & Custom Orders
-For custom templates or support, reach out to me on [Telegram](https://t.me/Mqtin).
+For custom templates or support, reach out to me on [Telegram](https://t.me/erfan_v2rayng).
 
 <a href="https://nowpayments.io/donation?api_key=Z50AKDD-DHSMN86-P0DQ22X-1SQAFCA" target="_blank" rel="noreferrer noopener">
     <img src="https://nowpayments.io/images/embeds/donation-button-black.svg" alt="Crypto donation button by NOWPayments">
