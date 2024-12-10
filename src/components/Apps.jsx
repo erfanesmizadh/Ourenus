@@ -287,7 +287,7 @@ const Apps = ({ subLink }) => {
   useEffect(() => {
     fetch(
       import.meta.env.VITE_JSON_APPS_URL ||
-        "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/json/os.json"
+        "https://raw.githubusercontent.com/erfanrsmizadh/public-assets/refs/heads/main/json/os.json"
     )
       .then((response) => response.json())
       .then((data) => setOperatingSystems(data.operatingSystems));
